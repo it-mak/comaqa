@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Инструменты
 
-You can use the [editor on GitHub](https://github.com/it-mak/comaqa/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Сканеры + DAST:
+- [FAST](https://wallarm.com/products/fast)
+- Owasp Zap
+- Burp Suite
+- Arachni
+- Nmap
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Статический анализ (SAST):
+- Rubocop
+- Bandit
 
-### Markdown
+### Разное:
+- Metasploit
+- Wfuzz
+- PyJFuzz
+- Sqlmap
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Полезные ссылки по теме
 
-# Header 1
-## Header 2
-### Header 3
+[OWASP CheatSheets](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets)
 
-- Bulleted
-- List
+[Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
-1. Numbered
-2. List
+[Awesome-appsec](https://github.com/paragonie/awesome-appsec)
 
-**Bold** and _Italic_ and `Code` text
+[Awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
 
-[Link](url) and ![Image](src)
-```
+[Awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[DevSecOps books](https://www.devseccon.com/blog/2018/12/18/10-books-every-devsecops-enthusiast-must-read/)
 
-### Jekyll Themes
+[Tools by vulns](https://bugbountyforum.com/tools/exploitation-scanning/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/it-mak/comaqa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
